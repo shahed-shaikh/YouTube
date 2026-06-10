@@ -1,0 +1,330 @@
+*{
+	margin:0%;
+	padding:0%;
+}
+.aside{
+	width:13%;
+	background-color:black;
+	float:left;
+}
+.menu{
+	height:20px;
+	width:9%;
+	margin:5% 0% 0% 9%;
+	float:left;
+}
+.youtube{
+	height:22px;
+	width:11%;
+	margin:4.5% 0% 0% 9%;
+	float:left;
+}
+.youtube1{
+	color:white;
+	margin:5% 0% 0% 1%;
+	font-size:16px;
+	float:left;
+}
+.in{
+	color:white;
+	font-size:6.5px;
+	margin:4% 0% 0% 1%;
+	display:inline-block;
+}
+.home{
+	height:100px;
+	margin-top:18%;
+	padding-left:2%;
+}
+.section{
+	margin-top:7%;
+	padding-left:2%;
+}
+.houses{
+	color:white;
+	height:27px;
+	border-radius:8px;
+	padding:2% 0% 0% 6%;
+	font-weight:800;
+}
+.home1{
+	float:left;
+	color:#D7D7D7;
+	margin-right:18px;
+	font-size:20px;
+}
+.home2{
+	float:left;
+	font-size:13px;
+	margin-top:2.5%;
+	text-decoration:none;
+	font-weight:800;
+}
+.hr{
+	margin:1% 8.5% 0% 3%;
+}
+.bebifin{
+	margin-top:2%;
+	border-radius:20px;
+	float:left;
+	
+}
+.bebiimg{
+	height:18px;
+	border-radius:20px;
+	float:left;
+	
+}
+.bebyfig{
+	font-size:13px;
+	text-align:center;
+	margin-top:3.5%;
+	color:#D7D7D7;
+}
+.bebyfigg{
+	font-size:13px;
+	margin:3.5% 0% 0% 10.5%;
+	float:left;
+	color:#D7D7D7;
+	font-weight:800;
+}
+.bebyfiggg{
+	font-size:13px;
+	margin:3.5% 0% 0% 0%;
+	float:left;
+	color:#D7D7D7;
+}
+
+.home5{
+	margin-top:12%;
+	padding-left:2%;
+}
+.bebifin1{
+	margin-top:2%;
+	float:left;
+	color:#D7D7D7;
+}
+.about{
+	font-size:12px;
+	padding-left:7%;
+	color:#D7D7D7;
+}
+
+nav{
+	height:100px;
+	width:100%;
+}
+.uperdiv{
+	height:50px;
+	width:100%;
+	background-color:black;	
+}
+.searchdiv{
+	width:30%;
+	margin:0.3% 0% 0% 21.4%;
+	float:left;
+	border-radius:18px;
+	border:1px solid #272727;
+}
+.shahed{
+	color:#6E6E6E;
+	padding:1.6% 0% 0% 2.8%;
+	font-size:14px;
+	float:left;
+}
+.shaheddiv{
+	background-color:#222222;
+	margin:0.1% 0% 0% 89%;
+	border-radius:18px;
+}
+.searchdivvv{
+	height:31.5px;
+	width:28%;
+	background-color:#222222;
+}
+.icon{
+	color:#D7D7D7;
+	margin:12% 0% 0% 31%;
+	float:left;
+	font-size:18px;
+}
+.mic{
+	height:23px;
+	width:2%;
+	background-color:#222222;
+	margin:0.3% 0% 0% 0.6%;
+	float:left;
+	border-radius:25px;
+	padding-top:0.5%;
+	color:#D7D7D7;
+	text-align:center;
+}
+.create{
+	height:28.5px;
+	width:4.4%;
+	background-color:#222222;
+	margin:0.3% 0% 0% 21.5%;
+	padding:0.1% 0% 0% 0.7%;
+	float:left;
+	border-radius:25px;
+	color:#D7D7D7;
+	font-size:10px;
+}
+.create1{
+	font-size:23px;
+	float:left;
+}
+.create2{
+	height:20px;
+	width:60%;
+	float:left;
+	margin-left:10%;
+	font-size:14px;
+	padding-top:5%;
+	font-weight
+}
+.notification{
+	height:25px;
+	width:2%;
+	float:left;
+	margin:0.7% 0% 0% 0.9%;
+	font-size:18px;
+	color:#D7D7D7;
+}
+.notification1{
+	height:26px;
+	width:1.7%;
+	float:left;
+	margin:0.4% 0% 0% 0.4%;
+	font-size:18px;
+	border-radius:20px;
+}
+.imgshahed{
+	height:26px;
+	width:100%;
+	border-radius:20px;
+	float:left;
+}
+.topseconddiv{
+	height:50px;
+	width:100%;
+	background-color:black;	
+	position:sticky;
+	top:0;
+}
+.all{
+	float:left;
+	border-radius:4px;
+	font-size:11px;
+	padding:5px;
+	margin-left:10px;
+	background-color:#272727;
+	color:#D7D7D7;
+}
+.main{
+	width:100%;
+	background-color:black;
+}
+.topytdiv{
+	height:330px;
+	width:100%;
+}
+.topytdiv1{
+	height:240px;
+	width:100%;
+}
+.wwe{
+	height:28px;
+	width:6.4%;
+	border-radius:14px;
+	margin-top:0.5%;
+	float:left;
+	border:0.1px solid red;
+}
+.wweimg{
+	height:28px;
+	width:100%;
+	border-radius:14px;
+}
+.aew{
+	height:28px;
+	width:6.4%;
+	border-radius:14px;
+	margin-top:0.5%;
+	float:left;
+	border:0.1px solid black;
+}
+.bloodline{
+	height:85px;
+	width:90%;
+	float:left; 
+	color:white;
+	font-size:13px;
+	margin-left:1.5%;
+	padding-top:0.5%;
+}
+.threedot{
+	height:30px;
+	width:auto;
+	margin:1% 0% 0% 0%;
+	font-size:16px;
+	color:white;
+}
+.classthree{
+	padding:0%;
+	margin:1% 0% 0% 0%;
+	font-size:16px;
+}
+.simbolwwe{
+	padding-top:1%;
+	font-size:11px;
+}
+.topytdiv2{
+	height:240px;
+	width:100%;	
+}
+.mediumdiv{
+	height:330px;
+	width:28.6%;
+	float:left;
+}
+.mediumdiv1{
+	height:330px;
+	width:28.4%;
+	float:left;
+	margin-left:0.8%;
+}
+.nexttopdiv{
+	height:500px;
+	width:100%;
+}
+.reels{
+	height:40px;
+	width:20%;
+}
+.imgred{
+	height:32px;
+	width:14%;
+	float:left;
+}
+.textby{
+	font-size:22px;
+}
+.reelsred{
+	height:370px;
+	width:14.5%;
+	float:left;
+	margin-top:1%;
+}
+.height{
+	height:370px;
+	width:100%;
+}
+.fig{
+	margin-left:2%;
+	font-size:12px;
+}
+.figg{
+	margin:1% 0% 0% 2%;
+	font-size:13px;
+}
